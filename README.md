@@ -11,7 +11,7 @@ Will need to do research on mark down - Caleb to send link to help with that.
 
 This assignment provided us with an HTML and CSS file that needed to be refactored. The goal for refactoring this webpage means to clean up the HTML code and to ensure that the webpage was accessible. 
 
-In addition to refactoring the html page, we needed to create 
+In addition to refactoring, I added comments before various elements within the html document. Overall I found myself removing divs as the entire webpage was full of them. And instead I replaced them with header, footer, section, articles elements instead. This allowed me to keep the webpage look the same, keep all its functions the same but define the areas of the webpage better so that when changes are needed - you will not have to sort through all the divs to find the banner to change.
 
 
 ![](assets/images/ScreenShot.png)
@@ -37,8 +37,11 @@ THEN I find a concise, descriptive title
 The main goal of refactoring is to make changes to clean up the code, you DO NOT want to change the website itself in any way.
 
 ARTICLE -defines an article
+
 ASIDE -defines content aside from the page content
+
 FIGURE -specifies a self-contained content
+
 SECTION -defines a section in a document
 
 ## Resources
