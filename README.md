@@ -36,10 +36,10 @@ THEN I find a concise, descriptive title
 
 The main goal of refactoring is to make changes to clean up the code, you DO NOT want to change the website itself in any way.
 
-<-article> defines an article
-<-aside> defines content aside from the page content
-<-figure> specifies a self-contained content
-<-section> defines a section in a document
+ARTICLE -defines an article
+ASIDE -defines content aside from the page content
+FIGURE -specifies a self-contained content
+SECTION -defines a section in a document
 
 ## Resources
 https://www.w3schools.com/TAGS/default.ASP
