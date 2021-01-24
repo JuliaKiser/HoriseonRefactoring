@@ -9,10 +9,9 @@ Will need to do research on mark down - Caleb to send link to help with that.
 
 ## Project Description
 
-This assignment provided us with an HTML and CSS file that needed to be refactored. The goal for refactoring this webpage was to clean up the HTML code and to ensure that the webpage was accessible. 
+This assignment provided us with an HTML and CSS file that needed to be refactored. The goal for refactoring this webpage means to clean up the HTML code and to ensure that the webpage was accessible. 
 
-
-Review other ReadMes for reference (i.e headings, sub headings...)
+In addition to refactoring the html page, we needed to create 
 
 
 ![](assets/images/ScreenShot.png)
@@ -37,10 +36,10 @@ THEN I find a concise, descriptive title
 
 The main goal of refactoring is to make changes to clean up the code, you DO NOT want to change the website itself in any way.
 
-<article> defines an article
-<aside> defines content aside from the page content
-<figure> specifies a self-contained content
-<section> defines a section in a document
+<-article> defines an article
+<-aside> defines content aside from the page content
+<-figure> specifies a self-contained content
+<-section> defines a section in a document
 
 ## Resources
 https://www.w3schools.com/TAGS/default.ASP
