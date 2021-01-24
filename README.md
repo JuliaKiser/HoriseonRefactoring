@@ -2,7 +2,7 @@
 Homework Assignment for Unit 1 -HTML-Git-CSS
 
 ## Deployed Link
-https://juliakiser.github.io/testingRepo/
+https://juliakiser.github.io/HoriseonRefactoring/
 
 You want a nice screen shot, a description of the project and a link to the deployed sight
 Will need to do research on mark down - Caleb to send link to help with that. 
