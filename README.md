@@ -43,7 +43,7 @@ FIGURE -specifies a self-contained content
 
 SECTION -defines a section in a document
 
-To clean up your CSS file looks for similar styles and learn how to group items together
+To clean up your CSS file, look for similar styles and learn how to group items together
 
 ## Resources
 https://www.w3schools.com/TAGS/default.ASP
